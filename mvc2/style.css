@@ -1,0 +1,62 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.content{
+    width:400px;
+    margin-top: 60px    ;
+}
+.dangkythanhvien{
+    width:400px;
+    border: 1px solid #DDDDDD;
+    margin-top: 60px;
+    margin:0px auto;
+}
+.dangkythanhvien h3{
+    padding: 5px;
+}
+.dangkythanhvien form table tr td{
+    padding: 5px;
+}
+.dangkythanhvien form table tr td input{
+    padding:3px 5px;
+}
+
+.list{
+    background:yellow;
+    padding:5px;
+    border-radius: 10px;
+    margin:5px;
+}
+.danhsach1{
+    width: 800px;
+    margin:auto;
+    margin-top:50px;
+}
+.danhsach1 table{
+    width: 500px;
+    border: 1px solid
+}
+.danhsach1 h1{
+    color:yellow;
+    text-align: left;
+    padding:5px;
+}
+.capnhatthanhvien{
+    width:400px;
+    border: 1px solid #DDDDDD;
+    margin-top: 60px;
+    margin:0px auto;
+}
+.capnhatthanhvien h3{
+    background: red;
+    padding: 5px;
+    color:#FFF;
+    text-align: center;
+}
+.capnhatthanhvien form table tr td{
+    padding: 5px;
+}
+.capnhatthanhvien form table tr td input{
+    padding:3px 5px;
+}
